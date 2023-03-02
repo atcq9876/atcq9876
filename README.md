@@ -23,9 +23,8 @@
 </div>
 
 
-### Tech Skills
+### Tech skills
 
-<p>
 <div>
   <img src="https://img.shields.io/badge/-Javascript-f7e968?style=for-the-badge&logo=javascript&logoColor=f7e968&labelColor=282828">
   <img src="https://img.shields.io/badge/-Ruby-FF6A55?style=for-the-badge&logo=ruby&logoColor=FF6A55&labelColor=282828">
@@ -50,4 +49,3 @@
   <br>
 
 </div>
-</p>
