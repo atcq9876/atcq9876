@@ -3,7 +3,7 @@
 
 ### About me
 - In Feb 2023, I graduated from the Makers Academy software engineering bootcamp
-- I love making full-stack web and mobile applications - check out my [mobile app that helps people walk home alone safely](https://github.com/atcq9876/get-home-safe)
+- I love making full-stack web and mobile applications - check out my [mobile app that helps people walk home alone safely](https://github.com/atcq9876/get-home-safe) and my other pinned projects in the section below
 - I really enjoy listening to and making music
 - I like to learn languages (I speak Mandarin and recently started learning French)
 - And most importantly, I'm looking for a junior developer role! Get in touch and take a look at my CV via the buttons below
