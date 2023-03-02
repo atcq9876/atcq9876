@@ -11,6 +11,9 @@
     <img src="https://img.shields.io/badge/CV-%23AD2C27?style=for-the-badge&logo=CV&logoColor=white"/></a>
 </div>
 
+<br>
+<br>
+
 **Tech Skills** 
 
 <p>
